@@ -1,0 +1,3 @@
+﻿attendance_id,fkstudent_id,attendance_course,formatted_time,status,regular_grade
+S001,张俊昌·,马克思,2024-04-09,准时,5
+S001,张俊昌,马克思,2024-04-08,准时,5
